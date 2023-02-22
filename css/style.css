@@ -59,10 +59,12 @@ h1 {
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	font-size: 70px;
 	text-align: center;
+	color: #06a7ae;
 }
 p{
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 25px;
+	color: #2a026e;
 }
 .parag{
 	margin-left: auto;
