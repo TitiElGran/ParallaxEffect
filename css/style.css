@@ -48,7 +48,7 @@ table {
 }
 th, td {
 	padding: 10px;
-	text-align: left;
+	text-align: center;
 }
 th {
 	background-color: #333;
@@ -60,12 +60,6 @@ td {
 h1 {
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 	font-size: 70px;
-	text-align: center;
-}
-h2 {
-	font-family: Arial, sans-serif;
-	font-size: 24px;
-	color: #333;
 	text-align: center;
 }
 p{
