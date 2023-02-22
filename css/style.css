@@ -26,9 +26,6 @@ nav ul {
 	justify-content: space-between;
 	align-items: center;
 }
-/*nav li {
-	margin: 10px;
-}*/
 nav a {
 	color: #fff;
 	text-decoration: none;
@@ -56,6 +53,7 @@ th {
 }
 td {
 	border: 1px solid #ddd;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 h1 {
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -63,7 +61,7 @@ h1 {
 	text-align: center;
 }
 p{
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .parag{
 	margin-left: auto;
