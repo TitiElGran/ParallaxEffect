@@ -1,6 +1,6 @@
 /* CSS per al menú fixat */
 html{
-	background-image: url("css/fons.eps");
+	background-image: url("https://titielgran.github.io/ParallaxEffect/img/fons.eps");
 	height: 100%;
 	background-attachment: fixed;
 	background-position: center;
