@@ -21,14 +21,14 @@ nav ul {
 	list-style: none;
 	margin: 0;
 	padding-left: 10%;
-	padding-right: (10%+10px);
+	padding-right: 13%;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 }
-nav li {
-	margin: 0 10px;
-}
+/*nav li {
+	margin: 10px;
+}*/
 nav a {
 	color: #fff;
 	text-decoration: none;
@@ -59,7 +59,7 @@ td {
 }
 h1 {
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-	font-size: 50px;
+	font-size: 70px;
 	text-align: center;
 }
 h2 {
