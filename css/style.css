@@ -25,6 +25,7 @@ nav ul {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	float: left;
 }
 nav a {
 	color: #fff;
@@ -39,6 +40,7 @@ nav a:hover {
 .subMenu {
 	display: none;
 	position: absolute;
+	text-decoration: none;
 }
 nav > ul:hover .subMenu {
 	top: 60px;
