@@ -36,6 +36,12 @@ nav a {
 nav a:hover {
 	color: #06a7ae;
 }
+.subMenu {
+	display: none;
+}
+.subMenu:hover {
+	display: block;
+}
 
 /* CSS per a la taula */
 table {
