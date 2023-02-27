@@ -38,9 +38,12 @@ nav a:hover {
 }
 .subMenu {
 	display: none;
+	position: absolute;
 }
-.subMenu:hover {
+nav > ul:hover .subMenu {
+	top: 60px;
 	display: block;
+	background-color: #333;
 }
 
 /* CSS per a la taula */
